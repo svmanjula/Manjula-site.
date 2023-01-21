@@ -1,6 +1,6 @@
 # Manjula's Portfolio
 
-Hy! Welcome to my portfolio, Its coming up tomorrow when i learn css and html  from Tanay!.
+Hy! Welcome to my portfolio
 
 For now i know
 1. HTML
